@@ -1,6 +1,7 @@
 ### Hi there folks :metal:  
 
-- 🔭 I’m currently working on my own projects https://github.com/philyeo (I'll be creating an idea repo where there's a list of projects I can work on)
+- 🔭 I’m currently working on my a consolidated 4D lotto application (using NodeJS and puppeteer). 
+     I am blogging the technical details at https://www.philyeo.dev/ (ongoing)
 - 🌱 I’m currently revising https://github.com/donnemartin/system-design-primer
 - 🌱 I’m currently learning https://micronaut.io/ framework
 - 😄 Pronouns: his/him/he
